@@ -1,8 +1,8 @@
-# Dataviz de receitas e despesas desenvolvido no Qlik Sense
+# Dachboard com Indicadores de Receitas e Despesas
 
 ## Descrição do Projeto
 
-Este projeto é resultado de um treinamento Qlik Sense realizado na plataforma Udemy e dedicou-se ao desenvolvimento de uma aplicação de BI que trás a analise de receitas e despesas de uma empresa fictícia. O modelo de dados e a estrutura de tabelas utilizado é formatado de acordo com um sistema de ERP líder de mercado, simulando assim um ambiente real de desenvolvimento. O seguintes temas foram abordados: evolução do BI, modelagem de dados, modelo associativo e versões do Qlik Sense, medidas e dimensões mestre, objetos padrões e objetos personalizados. 
+Este projeto é resultado de um treinamento Qlik Sense realizado na plataforma Udemy dedicado ao desenvolvimento de uma aplicação de BI com analise de receitas e despesas de uma empresa fictícia. O modelo de dados e a estrutura de tabelas utilizado é formatado de acordo com um sistema de ERP líder de mercado, simulando assim um ambiente real de desenvolvimento. O seguintes temas foram abordados: evolução do BI, modelagem de dados, modelo associativo e versões do Qlik Sense, medidas e dimensões mestre, objetos padrões e objetos personalizados. 
 
 ## Tecnologias Utilizadas
 
