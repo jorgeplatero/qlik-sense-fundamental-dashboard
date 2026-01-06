@@ -1,4 +1,4 @@
-# Dachboard com Indicadores de Receitas e Despesas
+# Dashboard com Indicadores de Receitas e Despesas
 
 ## Descrição do Projeto
 
