@@ -28,4 +28,4 @@ Os dados utilizados neste projeto são fictícios, porém estruturados conforme 
 
 Este projeto foi desenvolvido como parte do curso Qlik Sense Fundamental na Udemy.
 
-Link para o treinamento: [Acesse aqui](https://www.udemy.com/course/qlik-sense-fundamental/?couponCode=PPINTENTP3)
+Link para o treinamento: https://www.udemy.com/course/qlik-sense-fundamental/?couponCode=PPINTENTP3
